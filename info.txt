@@ -1,0 +1,5 @@
+wedothiseverytime
+gtX5zdyMU4Tssy2a
+mongodb+srv://wedothiseverytime:gtX5zdyMU4Tssy2a@backenddp.xpcu5oo.mongodb.net/
+
+mongodb+srv://wedothiseverytime:<db_password>@firstapi.job2ndq.mongodb.net/?retryWrites=true&w=majority&appName=FirstAPI
